@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1089-duplicate-zeros) |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
