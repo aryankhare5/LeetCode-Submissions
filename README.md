@@ -73,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0050-powx-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
