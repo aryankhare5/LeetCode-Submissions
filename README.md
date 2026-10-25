@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1089-duplicate-zeros) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
