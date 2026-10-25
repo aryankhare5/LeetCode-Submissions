@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
