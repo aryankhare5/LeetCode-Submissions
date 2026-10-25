@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
+| [0941-valid-mountain-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
