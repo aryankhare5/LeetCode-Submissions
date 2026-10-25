@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
