@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
