@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2399-check-distances-between-same-letters) |
