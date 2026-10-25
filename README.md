@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
