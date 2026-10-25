@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0707-design-linked-list) |
 ## Counting Sort
 |  |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
