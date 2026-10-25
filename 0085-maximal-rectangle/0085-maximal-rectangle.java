@@ -1,4 +1,17 @@
 class Solution {
+    public int maximalRectangle(char[][] matrix) {
+        int[] copy = new int[matrix[0]. length];
+        int max = 0;
+        for(int i = 0; i<matrix.length; i++){
+            for(int j =0; j<copy.length; j++){
+                if(matrix[i][j] == '1') copy[j]++;
+                else copy[j] = 0;
+            }
+            max = Math.max(max, maxArea(copy));
+        }
+
+        return max;
+    }
 
     public int maxArea(int[] arr) {
         Stack<Integer> s = new Stack<>();
@@ -45,21 +58,5 @@ class Solution {
 
         return result;
         
-    }
-
-    public int maximalRectangle(char[][] matrix) {
-        int[] copy = new int[matrix[0]. length];
-        int max = 0;
-        for(int i = 0; i<matrix.length; i++){
-            for(int j =0; j<copy.length; j++){
-                if(matrix[i][j] == '1') copy[j]++;
-                else copy[j] = 0;
-            }
-            max = Math.max(max, maxArea(copy));
-        }
-
-        return max;
-    }
-
-    
+    }    
 }
