@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
