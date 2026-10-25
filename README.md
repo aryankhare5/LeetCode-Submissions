@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quicksort
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0707-design-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
