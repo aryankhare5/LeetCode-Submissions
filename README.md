@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1089-duplicate-zeros) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
