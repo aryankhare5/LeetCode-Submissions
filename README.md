@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
 ## Enumeration
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quicksort
 |  |
 | ------- |
@@ -214,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
