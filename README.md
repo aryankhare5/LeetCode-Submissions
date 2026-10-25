@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2404-most-frequent-even-element) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
 ## Enumeration
@@ -160,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
