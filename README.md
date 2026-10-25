@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 ## Prime Factorization
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0707-design-linked-list](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
