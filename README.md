@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1089-duplicate-zeros](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
