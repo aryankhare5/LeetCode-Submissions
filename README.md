@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
