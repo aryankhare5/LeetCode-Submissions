@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1748-sum-of-unique-elements) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2418-sort-the-people) |
