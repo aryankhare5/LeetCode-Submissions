@@ -21,12 +21,12 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
 
+            if(fast == null || fast.next == null) return null;
+
             if(slow == fast){
                 break;
             }
         }
-
-        if(fast == null || fast.next == null) return null;
 
         ListNode temp = head;
         
