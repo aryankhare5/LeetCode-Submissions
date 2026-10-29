@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
