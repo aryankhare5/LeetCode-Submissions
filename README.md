@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0046-permutations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -432,8 +435,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
