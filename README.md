@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0867-transpose-matrix) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
