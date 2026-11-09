@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/0844-backspace-string-compare) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2299-strong-password-checker-ii) |
