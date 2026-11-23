@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/aryankhare5/LeetCode-Submissions/tree/master/2235-add-two-integers) |
 ## Number Theory
 |  |
 | ------- |
