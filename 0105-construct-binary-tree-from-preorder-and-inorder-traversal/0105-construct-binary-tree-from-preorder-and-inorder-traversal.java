@@ -14,8 +14,6 @@
  * }
  */
 class Solution {
-    
-
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int i=0; i<preorder.length; i++){
@@ -24,7 +22,7 @@ class Solution {
         return solve(preorder, map, 0, map.size()-1);
 
     }
-    
+
     int i =0;
     public TreeNode solve(int[] preorder, HashMap<Integer, Integer> map, int s, int e){
         if(s>e) return null;
